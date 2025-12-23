@@ -806,7 +806,7 @@ AssistenteVirtualMedico/
 #### 1. Clone o Repositório
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/Ferstuque/AssistenteVirtualMedico.git)
 cd AssistenteVirtualMedico
 ```
 
