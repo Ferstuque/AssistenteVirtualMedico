@@ -691,7 +691,7 @@ oncologista para orientação específica ao seu caso.
 | **Estrutura de Resposta** | Inconsistente | 5 seções fixas | +100% |
 | **Precisão Médica** | 72% | 94% | +30% |
 | **Vocabulário Oncológico** | Limitado | Especializado | +85% |
-| **Seguimento de Protocolos** | 45% | 91% | +102% |
+| **Seguimento de Protocolos** | 45% | 91% | +100% |
 | **Confidence Score** | 0.61 | 0.82 | +34% |
 
 ---
