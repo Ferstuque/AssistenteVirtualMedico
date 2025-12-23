@@ -1,0 +1,34 @@
+{
+  "generated_at": "2025-12-14T12:49:00.283211",
+  "source_file": "C:\\dev\\TechChallengeF03\\AssistenteVirtualMedico\\data\\processed\\medquad_qa_pairs.json",
+  "total_raw_samples": 729,
+  "total_valid_samples": 728,
+  "train_samples": 582,
+  "test_samples": 146,
+  "train_split": 0.8,
+  "random_seed": 42,
+  "min_answer_length": 50,
+  "train_stats": {
+    "total_samples": 582,
+    "avg_question_length": 54.1958762886598,
+    "avg_answer_length": 4043.4484536082473,
+    "sources": {
+      "CancerGov": 582
+    },
+    "medical_terms_found": 10,
+    "has_corruption": false
+  },
+  "test_stats": {
+    "total_samples": 146,
+    "avg_question_length": 52.74657534246575,
+    "avg_answer_length": 3260.8082191780823,
+    "sources": {
+      "CancerGov": 146
+    },
+    "medical_terms_found": 10,
+    "has_corruption": false
+  },
+  "encoding": "utf-8",
+  "format": "llama3",
+  "validation_passed": true
+}

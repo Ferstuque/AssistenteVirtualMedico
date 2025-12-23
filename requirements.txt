@@ -1,0 +1,117 @@
+# ============================================================================
+# Assistente Virtual Médico - Tech Challenge FIAP Fase 3
+# Requirements para Python 3.12+
+# ============================================================================
+
+# === Core Dependencies ===
+python-dotenv>=1.0.0
+
+# === LangChain Stack ===
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+langchain-google-genai>=2.0.0
+langchain-huggingface>=0.1.0
+langgraph>=0.2.0
+
+# === AI/ML Models ===
+# NOTA: PyTorch precisa ser instalado separadamente com CUDA:
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+transformers>=4.40.0
+sentence-transformers>=2.7.0
+google-generativeai>=0.8.0
+huggingface-hub>=0.24.0
+
+# === Vector Store & Embeddings ===
+faiss-cpu>=1.8.0
+# Se tiver GPU, use: faiss-gpu>=1.8.0
+
+# === Fine-Tuning (LoRA) ===
+peft>=0.12.0
+bitsandbytes>=0.44.0
+accelerate>=0.33.0
+datasets>=2.20.0
+trl>=0.8.0
+
+# === Data Processing ===
+pandas>=2.2.0
+numpy>=1.26.0
+tqdm>=4.66.0
+
+# === Data Collection & XML Processing ===
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+xmltodict>=0.13.0
+requests>=2.31.0
+httpx>=0.27.0
+
+# === Validation & Schema ===
+pydantic>=2.8.0
+pydantic-settings>=2.4.0
+
+# === Logging & Monitoring ===
+structlog>=24.4.0
+
+# === Configuration ===
+pyyaml>=6.0.0
+
+# === Evaluation Metrics ===
+rouge-score>=0.1.2
+nltk>=3.8.1
+sacrebleu>=2.4.0
+scikit-learn>=1.5.0
+evaluate>=0.4.1
+
+# === Jupyter & Notebooks ===
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.29.0
+ipywidgets>=8.1.0
+
+# === Training Monitoring ===
+tensorboard>=2.15.0
+
+# === Tokenization ===
+sentencepiece>=0.2.0
+protobuf>=3.20.0
+
+# === Testing & Quality (Opcional) ===
+pytest>=8.0.0
+pytest-asyncio>=0.23.0
+black>=24.0.0
+flake8>=7.0.0
+mypy>=1.10.0
+
+# ============================================================================
+# IMPORTANTE: Instalação do PyTorch
+# ============================================================================
+# 
+# PyTorch com CUDA 12.1 (GPU):
+#   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+#
+# PyTorch com CUDA 11.8 (GPU antiga):
+#   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+#
+# PyTorch CPU-only (sem GPU):
+#   pip install torch torchvision torchaudio
+#
+# ============================================================================
+# INSTALAÇÃO RÁPIDA
+# ============================================================================
+#
+# 1. Criar ambiente virtual:
+#    python -m venv venv
+#    venv\Scripts\activate  (Windows)
+#    source venv/bin/activate  (Linux/Mac)
+#
+# 2. Instalar dependências:
+#    pip install -r requirements.txt
+#
+# 3. Instalar PyTorch (escolher a versão apropriada acima)
+#
+# 4. Configurar variáveis de ambiente (.env):
+#    GOOGLE_API_KEY=sua_chave_aqui
+#    HUGGINGFACEHUB_API_TOKEN=seu_token_aqui
+#
+# ============================================================================
