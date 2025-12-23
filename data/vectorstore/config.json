@@ -1,0 +1,6 @@
+{
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "num_documents": 729,
+  "embedding_dimension": 384,
+  "index_type": "IndexFlatL2"
+}

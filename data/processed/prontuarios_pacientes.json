@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "description": "Prontuários fictícios de pacientes do hospital com foco em casos oncológicos",
+    "criado_em": "2025-12-21",
+    "atualizado_em": "2025-12-21",
+    "total_registros": 25,
+    "casos_oncologicos": 18,
+    "aviso": "DADOS FICTÍCIOS - Apenas para fins de demonstração e teste"
+  },
+  "pacientes": [
+    {
+      "id_paciente": "brcp230442",
+      "nome": "José",
+      "idade": "47 anos",
+      "historico": "Paciente masculino de 47 anos apresentou-se ao ambulatório em 22 de maio de 2019 com queixas de tosse persistente há 4 meses, hemoptise ocasional, dispneia progressiva aos esforços e perda de peso não intencional de 12kg em 6 meses. Refere dor torácica ventilatório-dependente e fadiga intensa. História de tabagismo ativo (40 maços-ano). Pai falecido aos 58 anos por carcinoma pulmonar. Radiografia de tórax revelou massa em lobo superior direito de 4,5cm. TC de tórax confirmou massa pulmonar espiculada com linfonodomegalia hilar. Broncoscopia com biópsia positiva para adenocarcinoma pulmonar. PET-CT sugere doença localmente avançada (estadio IIIA). Performance status ECOG 1. Sem metástases à distância no momento."
+    },
+    {
+      "id_paciente": "brfg120978",
+      "nome": "Maria",
+      "idade": "72 anos",
+      "historico": "Paciente feminina de 72 anos admitida em 13 de janeiro de 2021 com histórico de 3 meses de dor abdominal em hipocôndrio direito, anorexia severa, perda ponderal de 15kg, náuseas, vômitos frequentes e icterícia progressiva. Refere urina colúrica e acolia fecal. Sem história familiar de neoplasias. Etilismo social. Ao exame: hepatomegalia nodular, ascite moderada, icterícia 3+/4+. Exames laboratoriais: bilirrubinas elevadas (total 8,2 mg/dL), AFP 850 ng/mL, transaminases aumentadas. TC abdome: massa hepática heterogênea em lobo direito de 8cm com realce arterial e washout portal, compatível com hepatocarcinoma. Cirrose hepática subjacente Child-Pugh B. Sem candidatura cirúrgica devido à função hepática limítrofe."
+    },
+    {
+      "id_paciente": "brdb450123",
+      "nome": "Carlos",
+      "idade": "58 anos",
+      "historico": "Paciente masculino de 58 anos apresentou-se em 15 de março de 2020 com história de hematúria macroscópica intermitente há 2 meses, disúria e polaciúria. Nega dor lombar ou sintomas constitucionais. Tabagista 35 maços-ano. Trabalhou 20 anos em indústria química com exposição a aminas aromáticas. Sem história familiar oncológica. Cistoscopia evidenciou lesão papilar exofítica em parede lateral da bexiga. Ressecção transuretral (RTU) confirmou carcinoma urotelial de alto grau, invasão da lâmina própria (T1), sem invasão muscular. Marcador Ki-67 elevado. TC abdome/pelve sem sinais de doença metastática. Indicada BCG intravesical adjuvante."
+    },
+    {
+      "id_paciente": "brhp890654",
+      "nome": "Ana",
+      "idade": "35 anos",
+      "historico": "Paciente feminina de 35 anos admitida em 08 de julho de 2022 com história de cefaleia holocraniana progressiva há 3 meses, crises convulsivas tônico-clônicas generalizadas de início recente, alterações visuais (diplopia) e episódios de vômitos em jato matinais. Sem história oncológica familiar. Ao exame neurológico: papiledema bilateral, discreta hemiparesia esquerda. Ressonância magnética de encéfalo: lesão expansiva em região têmporo-parietal direita de 4,2cm, com realce anelar heterogêneo, edema perilesional extenso e desvio de linha média. Biópsia estereotáxica: glioblastoma multiforme (grau IV OMS), IDH1 wild-type, MGMT não metilado (prognóstico desfavorável). Indicada ressecção cirúrgica seguida de radioquimioterapia."
+    },
+    {
+      "id_paciente": "bras340987",
+      "nome": "Pedro",
+      "idade": "65 anos",
+      "historico": "Paciente masculino de 65 anos apresentou-se em 02 de novembro de 2021 com quadro de 5 meses de tosse seca persistente, hemoptise intermitente, dispneia progressiva e perda ponderal de 10kg. Refere dor torácica à direita. Tabagista 45 maços-ano, cessou há 2 anos. Exposição ocupacional a asbesto (trabalhou 30 anos em mineração e construção naval). Irmão faleceu aos 62 anos por mesotelioma pleural. Radiografia: opacidade pleural à direita com espessamento nodular. TC tórax: espessamento pleural irregular circunferencial direito, derrame pleural moderado. Toracocentese: líquido exsudativo. Biópsia pleural: mesotelioma pleural maligno epitelioide. PET-CT: doença locorregional, sem metástases à distância. Não candidato à cirurgia devido extensão da doença."
+    },
+    {
+      "id_paciente": "brkd220456",
+      "nome": "Fernanda",
+      "idade": "42 anos",
+      "historico": "Paciente feminina de 42 anos com diagnóstico recente de carcinoma renal de células claras. Apresentou-se em 19 de setembro de 2020 com hematúria macroscópica indolor, dor lombar direita persistente e massa palpável em flanco. Nega sintomas constitucionais. Sem fatores de risco conhecidos, não tabagista, não hipertensa. História familiar: tio paterno com câncer renal aos 55 anos. TC abdome: massa renal direita de 7,5cm, heterogênea, com áreas de necrose, extensão para veia renal. Sem linfonodomegalias. Nódulo pulmonar solitário de 8mm em lobo inferior esquerdo (suspeito para metástase). Nefrectomia radical direita realizada, anatomopatológico: carcinoma renal células claras, Fuhrman grau 3, pT3a. Iniciado sunitinibe adjuvante."
+    },
+    {
+      "id_paciente": "brcv110789",
+      "nome": "Roberto",
+      "idade": "51 anos",
+      "historico": "Paciente masculino de 51 anos admitido em 25 de abril de 2023 com quadro de dor epigástrica persistente há 4 meses, pirose refratária, disfagia progressiva para sólidos e líquidos, odinofagia, perda de peso de 18kg em 5 meses e anemia ferropriva severa. Tabagista 30 maços-ano, etilismo crônico. História familiar: pai falecido aos 60 anos por câncer de esôfago. Endoscopia digestiva alta: lesão vegetante ulcerada em esôfago distal, de aspecto infiltrativo, circunferencial, estenótica. Biópsia: adenocarcinoma esofágico moderadamente diferenciado. TC tórax/abdome: espessamento parietal esofágico, linfonodos mediastinais aumentados. Estadiamento: cT3N1M0 (estadio IIIB). PET-CT sem doença metastática. Indicado tratamento neoadjuvante com quimioradioterapia."
+    },
+    {
+      "id_paciente": "brth560234",
+      "nome": "Juliana",
+      "idade": "29 anos",
+      "historico": "Paciente feminina de 29 anos com diagnóstico de melanoma maligno. Apresentou-se em 10 de fevereiro de 2022 relatando lesão pigmentada em região escapular direita com mudança de características nos últimos 8 meses: aumento de tamanho, irregularidade de bordas, variação de coloração e prurido ocasional. Fototipo II, história de múltiplas queimaduras solares na infância e adolescência. Mãe com histórico de melanoma aos 48 anos. Dermatoscopia: padrão atípico, assimétrico, multicomponente. Biópsia excisional: melanoma extensivo superficial, Breslow 2,8mm, Clark IV, 4 mitoses/mm², ulceração presente. Biópsia de linfonodo sentinela: micrometástase em 1/3 linfonodos axilares. Estadiamento IIIA (pT3bN1aM0). PET-CT sem metástases à distância. Linfadenectomia axilar complementar e imunoterapia adjuvante com pembrolizumab."
+    },
+    {
+      "id_paciente": "bral670123",
+      "nome": "Marcos",
+      "idade": "70 anos",
+      "historico": "Paciente masculino de 70 anos admitido em 05 de dezembro de 2021 com quadro de alteração do hábito intestinal há 4 meses, alternando constipação e diarreia, hematoquezia intermitente, dor abdominal em cólica, tenesmo, emagrecimento de 12kg e astenia progressiva. Refere história familiar significativa: pai e irmão com câncer colorretal. Anemia ferropriva ao exame. Colonoscopia: lesão vegetante circunferencial em sigmóide, friável ao toque, estenótica. Biópsia: adenocarcinoma colônico moderadamente diferenciado. CEA: 85 ng/mL (elevado). TC abdome/pelve: espessamento parietal segmentar em sigmóide, linfonodos mesocólicos aumentados, múltiplas lesões hepáticas bilaterais sugestivas de metástases (maior de 4cm em segmento VII). Estadiamento IV (cT3N2M1a). Biópsia hepática confirmou metástase. KRAS mutado. Iniciado FOLFOX + bevacizumab paliativo."
+    },
+    {
+      "id_paciente": "brst450889",
+      "nome": "Beatriz",
+      "idade": "54 anos",
+      "historico": "Paciente feminina de 54 anos apresentou-se em 17 de junho de 2023 com nódulo palpável em quadrante superior externo da mama esquerda, descoberto há 2 meses durante autoexame. Refere retração de pele sobrejacente e descarga papilar sanguinolenta. História familiar significativa: mãe diagnosticada aos 52 anos com câncer de mama bilateral, irmã aos 48 anos. Menarca aos 11 anos, primeira gestação aos 35 anos, não amamentou. Reposição hormonal por 8 anos (menopausa aos 49). Mamografia bilateral: nódulo espiculado de 3,2cm em mama esquerda, BIRADS 5, microcalcificações agrupadas. Ultrassom: nódulo sólido hipoecóico irregular, linfonodo axilar suspeito. Core biópsia: carcinoma ductal invasivo grau 3, receptores hormonais negativos, HER2 3+ (superexpresso). Estadiamento IIB (cT2N1M0). Indicada quimioterapia neoadjuvante com esquema AC-THP."
+    },
+    {
+      "id_paciente": "brgr330556",
+      "nome": "Antonio",
+      "idade": "61 anos",
+      "historico": "Paciente masculino de 61 anos internado em 28 de agosto de 2020 com quadro de hematêmese volumosa e melena. História prévia de cirrose hepática por etilismo crônico (40 anos), Child-Pugh B, sem seguimento regular. Relatava desconforto abdominal vago e saciedade precoce nos últimos 3 meses. Endoscopia de urgência: varizes esofágicas grau II sem sangramento ativo no momento, lesão ulcerada de 3cm em grande curvatura gástrica. Biópsia: adenocarcinoma gástrico tipo intestinal de Lauren, moderadamente diferenciado. TC abdome: espessamento parietal gástrico, hepatomegalia cirrótica com nódulo de 2,8cm em segmento VIII com características de hepatocarcinoma (neoplasia sincrônica). AFP: 280 ng/mL. Ascite. Estadiamento: câncer gástrico T3N1M0 + hepatocarcinoma T1N0. Não candidato cirúrgico devido à função hepática comprometida. Cuidados paliativos."
+    },
+    {
+      "id_paciente": "brem440778",
+      "nome": "Claudia",
+      "idade": "38 anos",
+      "historico": "Paciente feminina de 38 anos admitida em 14 de janeiro de 2023 com fadiga extrema progressiva há 3 meses, palidez cutâneo-mucosa acentuada, equimoses espontâneas em membros, petéquias generalizadas, epistaxes recorrentes e gengivorragia. Refere febre baixa intermitente e sudorese noturna. Sem história familiar oncológica. Hemograma: pancitopenia severa (Hb 6,2 g/dL, leucócitos 2.100/mm³ com 15% de blastos circulantes, plaquetas 18.000/mm³). Mielograma: hipercelularidade com 72% de blastos mieloides. Imunofenotipagem: leucemia mielóide aguda (LMA) subtipo M2 (FAB). Cariótipo: t(8;21) - prognóstico favorável. Molecular: mutação no gene RUNX1. FLT3-ITD negativo. Iniciada quimioterapia de indução com citarabina + daunorrubicina (protocolo 7+3). Paciente candidata a transplante alogênico de medula óssea."
+    },
+    {
+      "id_paciente": "brpn770234",
+      "nome": "Ricardo",
+      "idade": "45 anos",
+      "historico": "Paciente masculino de 45 anos apresentou-se em 22 de outubro de 2022 com história de rouquidão persistente há 5 meses, disfonia progressiva, disfagia para sólidos, odinofagia, otalgia reflexa à direita e massa cervical palpável em região lateral direita há 1 mês. Perda ponderal de 9kg. Tabagista 30 maços-ano, etilismo pesado (140g álcool/dia). Sem história familiar oncológica. Laringoscopia: lesão vegetante ulcerada em prega vocal direita, com extensão para comissura anterior e prega ventricular, mobilidade reduzida. Biópsia: carcinoma espinocelular moderadamente diferenciado, HPV negativo. TC pescoço/tórax: lesão laríngea com extensão extralaríngea, linfonodomegalia cervical direita níveis II-IV (maior 3,5cm). Estadiamento IVA (T4aN2cM0). PET-CT sem metástases à distância. Indicada laringectomia total + esvaziamento cervical + radioterapia adjuvante."
+    },
+    {
+      "id_paciente": "brep220665",
+      "nome": "Sandra",
+      "idade": "33 anos",
+      "historico": "Paciente feminina de 33 anos admitida em 09 de março de 2021 com cefaleia persistente há 4 meses, náuseas matinais, diplopia, crises convulsivas focais iniciadas há 2 semanas e alterações de personalidade relatadas pela família. Sem história prévia de neoplasias. Exame neurológico: papiledema, déficit de VI nervo craniano bilateral, ataxia de marcha. Ressonância magnética: lesão expansiva em fossa posterior, originando-se do IV ventrículo, heterogênea, com realce pelo contraste, hidrocefalia obstrutiva. Ressecção cirúrgica com derivação ventricular prévia. Anatomopatológico: meduloblastoma clássico (tumor neuroectodérmico primitivo), grau IV OMS, alto índice proliferativo (Ki-67 45%). Molecular: SHH não ativado, grupo 3. Ressonância de coluna: implantes leptomeníngeos em região lombossacra (disseminação liquórica). Estadiamento M1. Quimioterapia sistêmica + radioterapia crânio-espinhal."
+    },
+    {
+      "id_paciente": "brot880445",
+      "nome": "Luiz",
+      "idade": "68 anos",
+      "historico": "Paciente masculino de 68 anos internado em 30 de maio de 2023 com dor óssea intensa generalizada, principalmente em coluna lombar e quadris, fraturas patológicas em vértebras T12 e L2 após queda de própria altura, anemia severa (Hb 7,8 g/dL) e insuficiência renal aguda (creatinina 3,2 mg/dL). História de infecções bacterianas recorrentes no último ano. Eletroforese de proteínas: pico monoclonal em gamaglobulinas. Imunofixação: componente monoclonal IgG kappa. Cadeias leves livres: relação kappa/lambda muito elevada. Mielograma: 45% de plasmócitos atípicos. Radiografia óssea: múltiplas lesões líticas em crânio, esterno, costelas, pelve e fêmures. Ressonância coluna: lesões vertebrais múltiplas com compressão medular em T12. Diagnóstico: mieloma múltiplo IgG kappa, estadio ISS III (alto risco). Iniciado bortezomibe + dexametasona + radioterapia paliativa em coluna."
+    },
+    {
+      "id_paciente": "brcl550992",
+      "nome": "Patricia",
+      "idade": "44 anos",
+      "historico": "Paciente feminina de 44 anos admitida em 18 de julho de 2020 com quadro de 6 meses de hipertireoidismo não controlado: taquicardia persistente (FC 110-120 bpm), perda ponderal de 14kg apesar de apetite preservado, tremores finos de extremidades, intolerância ao calor, sudorese excessiva, ansiedade e insônia. Propranolol e metimazol com resposta parcial. Ao exame: bócio difuso grau III, sem linfonodomegalia cervical palpável. TSH suprimido (<0,01), T4 livre muito elevado. Ultrassom tireóide: aumento difuso com múltiplos nódulos bilaterais, o maior de 2,8cm em lobo direito, sólido, hipovascularizado, TIRADS 4. PAAF: células foliculares atípicas, suspeita de neoplasia folicular. Tireoidectomia total realizada. Anatomopatológico: carcinoma folicular da tireóide, invasão capsular e vascular, 3,2cm. Cintilografia pós-cirúrgica: captação em leito tireoidiano residual e suspeita em região paratraqueal. Radioiodoterapia complementar (150 mCi). Tireoglobulina sérica em queda."
+    },
+    {
+      "id_paciente": "brgi330771",
+      "nome": "Eduardo",
+      "idade": "56 anos",
+      "historico": "Paciente masculino de 56 anos apresentou-se em 11 de abril de 2022 com história de 4 meses de alteração do hábito intestinal (diarreia crônica com 6-8 evacuações/dia), dor abdominal em cólica, hematoquezia frequente com muco, tenesmo, urgência evacuatória e perda de peso de 13kg. Anemia ferropriva. História familiar positiva: pai com câncer colorretal aos 62 anos, tio materno aos 58 anos. Colonoscopia: lesão vegetante e ulcerada ocupando cerca de 70% da circunferência do cólon descendente, friável, sangrante ao toque. Múltiplos pólipos em cólon. Biópsia: adenocarcinoma colônico pouco diferenciado com áreas de componente mucinoso. CEA: 145 ng/mL. TC abdome/pelve: espessamento parietal em cólon descendente, linfonodomegalia mesocólica, múltiplas imagens hepáticas hipoatenuantes sugestivas de metástases (>=6 lesões). Estadiamento IV. Teste molecular: MSI-alto (instabilidade microssatélite), BRAF V600E mutado. Iniciada imunoterapia com nivolumabe + ipilimumabe."
+    },
+    {
+      "id_paciente": "brvs660223",
+      "nome": "Lucia",
+      "idade": "79 anos",
+      "historico": "Paciente feminina de 79 anos admitida em 26 de setembro de 2021 com quadro neurológico agudo há 6 horas: hemiparesia direita súbita, afasia mista, rebaixamento do nível de consciência e crise convulsiva focal. História prévia: fibrilação atrial crônica sem anticoagulação (contraindicada por quedas recorrentes), hipertensão arterial. TC crânio inicial: hipodensidade em região fronto-têmporo-parietal esquerda com efeito expansivo e desvio de linha média. Ressonância magnética: lesão expansiva heterogênea de 5,5cm em região fronto-parietal esquerda, realce anelar irregular, edema vasogênico extenso. Diagnóstico diferencial: AVC vs tumor cerebral. Biópsia estereotáxica: metástase cerebral de adenocarcinoma. Investigação primário: TC tórax evidenciou massa pulmonar em lobo superior direito de 4cm, espiculada, linfonodos hilares. Biópsia pulmonar: adenocarcinoma pulmonar, mutação EGFR exon 19 deleção. Estadiamento IV. Iniciado osimertinibe (inibidor EGFR 3ª geração) + radioterapia cerebral paliativa."
+    },
+    {
+      "id_paciente": "brnf440556",
+      "nome": "Rodrigo",
+      "idade": "27 anos",
+      "historico": "Paciente masculino de 27 anos admitido em 03 de dezembro de 2022 com história de 6 meses de dor testicular esquerda progressiva, aumento do volume testicular e sensação de peso em bolsa escrotal. Negava trauma prévio. Inicialmente interpretado como orquite/epididimite, tratado com antibióticos sem melhora. Ao exame: massa testicular esquerda endurecida, indolor à palpação, não translúcida, sem sinais inflamatórios. Ultrassom testicular: massa sólida heterogênea de 4,5cm em testículo esquerdo, hipervascularizada. Marcadores tumorais: AFP 2.850 ng/mL (muito elevado), beta-HCG 890 mUI/mL, LDH 650 U/L. TC tórax/abdome/pelve: massa testicular, múltiplos linfonodos retroperitoneais aumentados (conglomerado de 7cm para-aórtico), nódulos pulmonares bilaterais (maior 2,1cm). Orquiectomia inguinal esquerda: tumor misto de células germinativas (60% carcinoma embrionário, 30% teratoma, 10% tumor do seio endodérmico). Estadiamento IIIB (alto risco). Quimioterapia BEP (bleomicina, etoposídeo, cisplatina) - 4 ciclos."
+    },
+    {
+      "id_paciente": "brbc770889",
+      "nome": "Camila",
+      "idade": "31 anos",
+      "historico": "Paciente feminina de 31 anos, primigesta, admitida em 20 de fevereiro de 2023 na 24ª semana de gestação com história de sangramento vaginal intermitente desde 18ª semana, massa abdominal de crescimento rápido desproporcional à idade gestacional e hiperêmese gravídica severa e refratária. Beta-HCG extremamente elevado (>500.000 mUI/mL). Ultrassom obstétrico: ausência de feto viável, conteúdo uterino heterogêneo com aspecto em 'tempestade de neve', múltiplos cistos teca-luteínicos ovarianos bilaterais. TC tórax: múltiplos nódulos pulmonares bilaterais (padrão em 'soltando balões'). Diagnóstico: mola hidatiforme completa com transformação maligna (coriocarcinoma gestacional). Estadiamento FIGO IV (metástases pulmonares). Escore de risco OMS: 11 (alto risco). Esvaziamento uterino por aspiração, anatomopatológico confirmou coriocarcinoma. Iniciada quimioterapia EMA-CO (etoposídeo, metotrexato, actinomicina-D, ciclofosfamida, vincristina). Seguimento com beta-HCG semanal (curva de regressão favorável)."
+    },
+    {
+      "id_paciente": "brpk220334",
+      "nome": "Sergio",
+      "idade": "53 anos",
+      "historico": "Paciente masculino de 53 anos admitido em 07 de agosto de 2021 com hematúria macroscópica persistente há 1 mês, dor lombar direita intensa irradiando para flanco e fossa ilíaca, disúria, polaciúria e emagrecimento de 8kg em 3 meses. Tabagista 25 maços-ano. Trabalhador rural com exposição crônica a agrotóxicos. TC abdome: massa renal direita de 9cm, heterogênea, com áreas de necrose e calcificações, extensão para gordura perirrenal e invasão da veia renal e cava inferior. Linfonodos para-aórticos aumentados. Múltiplas lesões ósseas líticas em vértebras, pelve e fêmur direito (metástases). Nódulos pulmonares bilaterais subcentimétricos. Biópsia da lesão renal: carcinoma renal de células claras, Fuhrman grau 4. Estadiamento IV (T4N1M1). IMDC escore de risco ruim. Fosfatase alcalina elevada (450 U/L). Hipercalcemia (13,2 mg/dL). Iniciado nivolumabe + ipilimumabe (imunoterapia combinada) + ácido zoledrônico + radioterapia paliativa óssea."
+    },
+    {
+      "id_paciente": "brme550667",
+      "nome": "Vanessa",
+      "idade": "40 anos",
+      "historico": "Paciente feminina de 40 anos admitida em 15 de novembro de 2022 com quadro de 3 meses de dispneia progressiva aos esforços, tosse seca persistente, dor torácica ventilatório-dependente e perda de peso de 7kg. Refere sudorese noturna profusa e fadiga extrema. Não tabagista, sem exposições ocupacionais conhecidas. História familiar: mãe falecida aos 52 anos por linfoma. Radiografia de tórax: alargamento mediastinal superior com massa anterior. TC tórax: massa mediastinal anterior de 11cm, heterogênea, envolvendo estruturas vasculares (veia cava superior), derrame pericárdico moderado, múltiplos linfonodos mediastinais aumentados. Sinais de síndrome de veia cava superior. Biópsia mediastinal por mediastinoscopia: timoma tipo B3 (carcinoma tímico bem diferenciado), invasivo. Estadiamento Masaoka IVa. Imunohistoquímica positiva para CK, CD5. Não ressecável devido à invasão vascular. Quimioterapia neoadjuvante com cisplatina + etoposídeo + radioterapia concomitante."
+    },
+    {
+      "id_paciente": "brhm440998",
+      "nome": "Joao",
+      "idade": "75 anos",
+      "historico": "Paciente masculino de 75 anos internado em 12 de janeiro de 2021 com quadro de 6 meses de anemia progressiva refratária a reposição de ferro, fadiga extrema incapacitante, dor óssea intensa em coluna lombar e costelas, perda ponderal de 11kg e infecções bacterianas recorrentes (3 episódios de pneumonia no último ano). Insuficiência renal progressiva (creatinina 2,8 mg/dL). Exames: anemia normocítica normocrômica (Hb 8,1 g/dL), VHS 95 mm, cálcio sérico 11,8 mg/dL, proteínas totais 10,5 g/dL. Eletroforese: pico monoclonal na fração gama. Imunofixação: IgG lambda. Dosagem de cadeias leves livres: lambda/kappa ratio elevado. Mielograma: 58% de plasmócitos atípicos. Radiografia óssea (série esquelética): lesões líticas múltiplas em crânio (aspecto em 'sal e pimenta'), esterno, costelas, pelve e coluna vertebral. Ressonância de coluna: múltiplas lesões vertebrais, fraturas patológicas em L1 e L3. Mieloma múltiplo IgG lambda, estadio ISS III, R-ISS III (alto risco). Citogenética: del(17p), t(4;14) - prognóstico desfavorável. Iniciado daratumumabe + bortezomibe + dexametasona."
+    },
+    {
+      "id_paciente": "brin330112",
+      "nome": "Renata",
+      "idade": "36 anos",
+      "historico": "Paciente feminina de 36 anos admitida em 29 de maio de 2023 com história de 2 meses de febre vespertina diária (38-39°C), sudorese noturna profusa com necessidade de troca de roupa, perda ponderal de 12kg, fadiga progressiva e prurido generalizado. Ao exame: linfonodomegalia cervical bilateral, axilar e inguinal (linfonodos >2cm, indolores, elásticos), esplenomegalia (baço palpável 6cm abaixo do rebordo costal). Exames: VHS 85mm, LDH 890 U/L, hemograma com leve anemia e linfopenia. TC pescoço/tórax/abdome: linfonodomegalia cervical, mediastinal, axilar, retroperitoneal e inguinal (maior linfonodo 4,5cm em região cervical), esplenomegalia volumosa (18cm). Biópsia excisional de linfonodo cervical: linfoma de Hodgkin clássico, esclerose nodular (subtipo mais comum), células de Reed-Sternberg presentes. Imunohistoquímica: CD15+, CD30+. Biópsia de medula óssea negativa. PET-CT: doença linfonodal extensa acima e abaixo do diafragma, comprometimento esplênico. Estadiamento IVB (sintomas B presentes). Escore IPS 2. Iniciado ABVD (adriamicina, bleomicina, vinblastina, dacarbazina)."
+    },
+    {
+      "id_paciente": "brco660445",
+      "nome": "Paulo",
+      "idade": "62 anos",
+      "historico": "Paciente masculino de 62 anos admitido em 04 de outubro de 2020 com quadro de 5 meses de dor abdominal epigástrica persistente, irradiando para dorso, não relacionada à alimentação, associada a náuseas, anorexia severa, perda de peso de 16kg, icterícia progressiva e acolia fecal nas últimas 3 semanas. Diabético tipo 2 de início recente (diagnóstico há 4 meses), descompensado. Tabagista 40 maços-ano. Ao exame: icterícia 4+/4+, vesícula palpável (sinal de Courvoisier positivo), hepatomegalia. Bilirrubinas elevadas (total 18,5 mg/dL, direta 14,2 mg/dL), CA 19-9: 1.850 U/mL (muito elevado). TC abdome: massa em cabeça do pâncreas de 4,5cm, hipodensa, com dilatação das vias biliares intra e extra-hepáticas, dilatação do ducto pancreático principal, invasão da veia mesentérica superior e porta, linfonodos peripancreáticos, atrofia de corpo e cauda pancreática. Múltiplas lesões hepáticas sugestivas de metástases. Ecoendoscopia com punção: adenocarcinoma ductal pancreático. Estadiamento IV (irressecável, metastático). ECOG 2. Paliação com drenagem biliar endoscópica. Quimioterapia paliativa FOLFIRINOX modificado."
+    }
+  ]
+}
