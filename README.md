@@ -13,6 +13,7 @@
 - [Como Executar](#-como-executar)
 - [Referências Técnicas](#-referências-técnicas)
 
+**[Vídeo demonstrativo](https://youtu.be/FEOgv4grLBA)**
 ---
 
 ## 🎯 Visão Geral do Projeto
